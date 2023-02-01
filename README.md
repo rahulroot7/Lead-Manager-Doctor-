@@ -61,4 +61,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).1.git clone https://github.com/rahulroot7/Lead-Manager-Doctor-.git
+2. .example to change .env and set the "database" and email credencial.
+3. run command composer update.
+4.ran command; php artisan migrate.
+5.run command: php artisan db:seed.
+6.php artisan serve
